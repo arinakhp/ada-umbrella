@@ -1,6 +1,6 @@
 # ADA: Umbrella Laboratory
 
-Unofficial Resident Evil fan game. Ada Wong and Albert Wesker rescue Leon Kennedy. Choose Umbrella laboratory or a cultist church. Eight puzzles, six documents, a persistent Tyrant stalker, Lady Dimitrescu boss fight, and a merchant selling four sizes of hats for collectible coins.
+Unofficial Resident Evil fan game. Ada Wong and Albert Wesker rescue Leon Kennedy. Choose Umbrella laboratory or a cultist church. Eight puzzles, six documents, a persistent Tyrant stalker, Lady Dimitrescu in the laboratory, Mother Miranda in the church, three difficulty settings, eight distinct church puzzles, a Tyrant kick with knockback and stun, and a merchant selling four sizes of hats for collectible coins.
 
 Play: https://arinakhp.github.io/ada-umbrella/
 
